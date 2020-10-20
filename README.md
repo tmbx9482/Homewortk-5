@@ -34,5 +34,5 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-## ScreenShot for HW :D
+## ScreenShot📸
 ![Screenshot (83)](https://user-images.githubusercontent.com/62157127/88461673-823fc680-ce73-11ea-9ed0-1fb34a744aa9.png)
