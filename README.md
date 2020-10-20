@@ -1,6 +1,6 @@
 # Work Day Scheduler✍📖
-[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
-[![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![javascript](https://aleen42.github.io/badges/src/javascript.svg) 
 [![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://code.visualstudio.com) 
 
 
